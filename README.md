@@ -12,4 +12,4 @@ The final ranking of schools was determined based on the AHP weighted scores.
 (See index.html for full results!)
 
 GitHub Pages Link:
-👉 
+👉 https://demetriosthornton.github.io/HW3_AHP/
